@@ -1,5 +1,5 @@
 ### DU-GAN
-This repository contains the PyTorch implementation of the paper: **DU-GAN: Generative Adversarial Networks with Dual-Domain U-Net Based Discriminators for Low-Dose CT Denoising**
+This repository contains the PyTorch implementation of the paper: **DU-GAN: Generative Adversarial Networks with Dual-Domain U-Net Based Discriminators for Low-Dose CT Denoising** accepted by IEEE Transactions on Instrumentation & Measurement 2021.
 
 > DU-GAN: Generative Adversarial Networks with Dual-Domain U-Net Based Discriminators for Low-Dose CT Denoising<br>
 > https://arxiv.org/abs/2108.10772 <br>
@@ -52,12 +52,11 @@ pydicom
 If you found this code or our work useful please cite us:
 
 ```
-@misc{huang2021dugan,
-      title={DU-GAN: Generative Adversarial Networks with Dual-Domain U-Net Based Discriminators for Low-Dose CT Denoising}, 
-      author={Zhizhong Huang and Junping Zhang and Yi Zhang and Hongming Shan},
+@article{huang2020dugan,
+      title={{DU-GAN}: Generative Adversarial Networks with Dual-Domain U-Net Based Discriminators for Low-Dose CT Denoising},
+      author={Huang, Zhizhong and Zhang, Junping and Zhang, Yi and Shan, Hongming},
+      journal={IEEE Transactions on Instrumentation & Measurement},
       year={2021},
-      eprint={2108.10772},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+      publisher={IEEE}
 }
 ```
